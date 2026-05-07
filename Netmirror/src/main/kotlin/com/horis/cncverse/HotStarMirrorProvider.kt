@@ -30,7 +30,7 @@ class HotStarMirrorProvider : MainAPI() {
         TvType.Anime,
         TvType.AsianDrama
     )
-    override var lang = "hi"
+    override var lang = "id"
 
     override var mainUrl = "https://net52.cc"
     private var newUrl = "https://net22.cc"
